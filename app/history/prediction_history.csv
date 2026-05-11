@@ -1,8 +1,0 @@
-Time,Comment,Prediction,Confidence
-2026-05-11 19:51:16,stupid,Toxic,100.00%
-2026-05-11 19:52:19,"hello
-",Safe,95.04%
-2026-05-11 19:55:15,"hello
-",Safe,95.04%
-2026-05-11 21:01:28,hello,Safe,95.04%
-2026-05-11 21:01:29,hello,Safe,95.04%
