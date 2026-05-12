@@ -6,7 +6,7 @@ A Machine Learning + Streamlit web application that detects whether a comment is
 
 ## 🚀 Live Demo
 Try the app here 👉  
-https://your-streamlit-app.streamlit.app
+https://toxic-data-dashboard.streamlit.app/
 
 ---
 
